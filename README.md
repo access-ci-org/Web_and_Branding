@@ -18,7 +18,7 @@ Download hex values, typography standards, and more:
 
 Shared navigation and footer links across all subdomains.
 
-## Universal Navigation
+Universal Navigation
 
 Left side:
 
@@ -52,7 +52,7 @@ Right side:
   - Share with ORCID (https://allocations.access-ci.org/orcid)
   - Log out (different on every platform)
 
-## Universal Footer
+Universal Footer
 
 Row 1:
 
