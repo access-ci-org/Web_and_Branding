@@ -5,14 +5,14 @@ June 1, 2023
 ## User Interface Design
 
 Download navigation, layout examples, and page measurements:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-12.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-12.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-13.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-13.xd))
 
 ## Style Guide
 
 Download hex values, typography standards, and more:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-4.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-4.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-5.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-5.xd))
 
 ## URLs
 
