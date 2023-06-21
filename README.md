@@ -39,7 +39,7 @@ Right side:
   - Contact (https://access-ci.org/contact)
   - Events & Trainings (https://support.access-ci.org/events)
   - News ([https://access-ci.org/news](https://access-ci.org/news))
-  - Outages ([https://support.access-ci.org/outages](https://support.access-ci.org/outages) or [https://operations.access-ci.org/outages](https://operations.access-ci.org/outages))
+  - Outages ([https://support.access-ci.org/outages](https://support.access-ci.org/outages))
   - Resource Providers ([https://access-ci.org/resource-providers/](https://access-ci.org/resource-providers/))
 - Login (if not logged in)
   - Login ([https://cilogon.org/](https://cilogon.org/))
