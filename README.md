@@ -47,10 +47,11 @@ Right side:
   - Register (https://identity.access-ci.org/new-user)
   - Reset Password (https://identity.access-ci.org/password-reset)
 - My ACCESS (if logged in)
+  - Allocations ([https://allocations.access-ci.org/requests](https://allocations.access-ci.org/requests))
   - Community Persona ([https://support.access-ci.org/community-persona](https://support.access-ci.org/community-persona))
   - Edit Profile ([https://allocations.access-ci.org/profile](https://allocations.access-ci.org/profile))
-  - My Allocations ([https://allocations.access-ci.org/requests](https://allocations.access-ci.org/requests))
-  - My Publications (https://allocations.access-ci.org/publications)
+  - Open a help ticket (TBD future page)
+  - Publications (https://allocations.access-ci.org/publications)
   - Share with ORCID (https://allocations.access-ci.org/orcid)
   - Log out (different on every platform)
 
