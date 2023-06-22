@@ -53,7 +53,7 @@ Right side:
   - Open a help ticket (TBD future page)
   - Publications (https://allocations.access-ci.org/publications)
   - Share with ORCID (https://allocations.access-ci.org/orcid)
-  - Log out (different on every platform)
+  - Log out (Every platform is different. They should all redirect to [https://cilogon.org/logout/?skin=access](https://cilogon.org/logout/?skin=access))
 
 ##
 
