@@ -35,7 +35,7 @@ Right side:
 - \<Search Icon\> ([https://support.access-ci.org/knowledge-base](https://support.access-ci.org/knowledge-base))
 - \<Hamburger Icon\>
   - About ([https://access-ci.org/about](https://access-ci.org/about))
-  - Announcements (https:/support.access-ci.org/news)
+  - Announcements (https:/support.access-ci.org/announcements)
   - Contact (https://access-ci.org/contact)
   - Events & Trainings (https://support.access-ci.org/events)
   - News ([https://access-ci.org/news](https://access-ci.org/news))
