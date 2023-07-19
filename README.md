@@ -1,5 +1,15 @@
 # ACCESS Style Guide
 
+July 19, 2023
+
+## ACCESS Contact Us Page
+
+Contact page will link to the ACCESS Ticket Submission system for all General Information inquiries: Download ACCESS Ticket Submission example 1 ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-contact-1.png)) and example 2 ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-contact-2.png)); Download Contact page example ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/contact.png))
+
+## Updated Hex Value
+
+In order to meet accessibility requirements #138597 has been changed to #107180. Download updated style guide (PDF) (Adobe XD) and user interface design (PDF) (Adobe XD)
+
 June 1, 2023
 
 ## User Interface Design
@@ -45,7 +55,7 @@ Right side:
   - Login ([https://cilogon.org/](https://cilogon.org/))
   - Questions ([https://identity.access-ci.org/](https://identity.access-ci.org/))
   - Register (https://identity.access-ci.org/new-user)
-  - Reset Password (https://identity.access-ci.org/password-reset)
+  - Reset Password (https://identity.access-ci.orgg/password-reset)
 - My ACCESS (if logged in)
   - Allocations ([https://allocations.access-ci.org/requests](https://allocations.access-ci.org/requests))
   - Community Persona ([https://support.access-ci.org/community-persona](https://support.access-ci.org/community-persona))
