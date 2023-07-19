@@ -8,21 +8,19 @@ Contact page will link to the ACCESS Ticket Submission system for all General In
 
 ## Updated Hex Value
 
-In order to meet accessibility requirements #138597 has been changed to #107180. Download updated style guide (PDF) (Adobe XD) and user interface design (PDF) (Adobe XD)
-
-June 1, 2023
+In order to meet accessibility requirements #138597 has been changed to #107180.
 
 ## User Interface Design
 
 Download navigation, layout examples, and page measurements:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-13.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-13.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-14.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-14.xd))
 
 ## Style Guide
 
 Download hex values, typography standards, and more:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-5.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-5.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-6.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-6.xd))
 
 ## URLs
 
