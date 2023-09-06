@@ -4,7 +4,7 @@ September 6, 2023
 
 ## Get Started Page
 Content Draft 1
-([Google Docs](https://docs.google.com/document/d/18Tsva5Wkt_rlNp-jy3WaizIYEneWqN7oVw3HAEMU58E/edit))
+([Google Doc](https://docs.google.com/document/d/18Tsva5Wkt_rlNp-jy3WaizIYEneWqN7oVw3HAEMU58E/edit))
 
 ## ACCESS Contact Us Page
 
