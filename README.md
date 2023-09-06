@@ -2,6 +2,9 @@
 
 September 6, 2023
 
+## Footer
+Acceptable Use is now Acceptable Use Policy and links to: [https://access-ci.org/acceptable-use/](https://access-ci.org/acceptable-use/)
+
 ## Get Started Page
 Content Draft 1
 ([Google Doc](https://docs.google.com/document/d/18Tsva5Wkt_rlNp-jy3WaizIYEneWqN7oVw3HAEMU58E/edit))
