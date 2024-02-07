@@ -4,11 +4,12 @@ February 7, 2024
 
 ## Updated Logos
 
-All ACCESS logos will now include the NSF logo. Download logos. Please note: Use the supplied .svg file for website use. See access-UI-15 and access-style-guide-7 for size and position.
+All ACCESS logos will now include the NSF logo. Download logos.
 
-NSF logo links to nsf.gov
-
-ACCESS logo and subdomain logos link to home page of their respective websites
+- Please note: Use the supplied .svg file for website use.
+- See access-UI-15 and access-style-guide-7 for size and position.
+- NSF logo links to nsf.gov
+- ACCESS logo and subdomain logos link to home page of their respective websites
 
 [Logos](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
 
@@ -23,27 +24,27 @@ URLs:
 ([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false))
 ([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false))
 
-Contact ACCESS (https://access-ci.org/contact/)
+- Contact ACCESS (https://access-ci.org/contact/)
 
-Acceptable Use Policy (https://access-ci.org/acceptable-use/)
+- Acceptable Use Policy (https://access-ci.org/acceptable-use/)
 
-Code of Conduct (https://access-ci.org/code-of-conduct/)
+- Code of Conduct (https://access-ci.org/code-of-conduct/)
 
-Privacy Policy (https://access-ci.org/privacy-policy/)
+- Privacy Policy (https://access-ci.org/privacy-policy/)
 
-Glossary (https://access-ci.org/glossary/)
+- Glossary (https://access-ci.org/glossary/)
 
-Site Map (https://access-ci.org/site-map/)
+- Site Map (https://access-ci.org/site-map/)
 
-Twitter (https://twitter.com/ACCESSforCI)
+- Twitter (https://twitter.com/ACCESSforCI)
 
-Youtube (https://www.youtube.com/c/ACCESSforCI)
+- Youtube (https://www.youtube.com/c/ACCESSforCI)
 
-Facebook (https://www.facebook.com/ACCESSforCI)
+- Facebook (https://www.facebook.com/ACCESSforCI)
 
-LinkedIn (https://www.linkedin.com/company/accessforci/)
+- LinkedIn (https://www.linkedin.com/company/accessforci/)
 
-ACCESS Logo (https://access-ci.org/)
+- ACCESS Logo (https://access-ci.org/)
 
 ## User Interface Design
 
