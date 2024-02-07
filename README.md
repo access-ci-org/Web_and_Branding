@@ -6,11 +6,13 @@ February 7, 2024
 
 All ACCESS logos will now include the NSF logo. Download logos. Please note: Use the supplied .svg file for website use. See access-UI-15 and access-style-guide-7 for size and position.
 
-([Logos] (https://github.com/access-ci-org/Web_and_Branding/tree/master/logos))
+NSF logo links to nsf.gov
 
-## Universal Footer
+ACCESS logo and subdomain logos link to home page of their respective websites
 
-Updated Universal Footer
+[Logos](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
+
+## Updated Universal Footer
 
 Universal Footer content has been updated. See access-UI-15 and access-style-guide-7 for text, layout, and design.
 
