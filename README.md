@@ -55,11 +55,7 @@ Download hex values, typography standards, and more:
 ([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.pdf))
 ([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.xd))
 
-## URLs
-
-Shared navigation and footer links across all subdomains.
-
-## Universal Navigation
+## Universal Navigation URLS
 
 Left side:
 
