@@ -1,41 +1,52 @@
 # ACCESS Style Guide
 
-September 6, 2023
+February 7, 2024
 
-## Footer
-Acceptable Use is now Acceptable Use Policy and links to: [https://access-ci.org/acceptable-use/](https://access-ci.org/acceptable-use/)
+## Updated Logos
 
-## Get Started Page
-Content Draft 1
-([Google Doc](https://docs.google.com/document/d/18Tsva5Wkt_rlNp-jy3WaizIYEneWqN7oVw3HAEMU58E/edit))
+All ACCESS logos will now include the NSF logo. Download logos. Please note: Use the supplied .svg file for website use. See access-UI-15 and access-style-guide-7 for size and position.
 
-## ACCESS Contact Us Page
+## Universal Footer
 
-Contact page will link to the ACCESS Ticket Submission system for all General Information inquiries: Download ACCESS Ticket Submission example 1 ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-contact-1.png)) and example 2 ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-contact-2.png)); Download Contact page example ([PNG](https://github.com/access-ci-org/Web_and_Branding/blob/master/contact.png))
+Updated Universal Footer
+Footer content has been updated. See access-UI-15 and access-style-guide-7 for text, layout, and design.
 
-## Updated Hex Value
+URLs:
+([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false)
+([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false)
+([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false)
+([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false)
+([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false)
 
-In order to meet accessibility requirements #138597 has been changed to #107180.
+Contact ACCESS (https://access-ci.org/contact/)
+Acceptable Use Policy (https://access-ci.org/acceptable-use/)
+Code of Conduct (https://access-ci.org/code-of-conduct/)
+Privacy Policy (https://access-ci.org/privacy-policy/)
+Glossary (https://access-ci.org/glossary/)
+Site Map (https://access-ci.org/site-map/)
+Twitter (https://twitter.com/ACCESSforCI)
+Youtube (https://www.youtube.com/c/ACCESSforCI)
+Facebook (https://www.facebook.com/ACCESSforCI)
+LinkedIn (https://www.linkedin.com/company/accessforci/)
+ACCESS Logo (https://access-ci.org/)
 
 ## User Interface Design
 
 Download navigation, layout examples, and page measurements:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-14.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/ncsa-access-UI-14.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-15.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-15.xd))
 
 ## Style Guide
 
 Download hex values, typography standards, and more:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-6.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-6.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.xd))
 
 ## URLs
 
 Shared navigation and footer links across all subdomains.
 
-##
-
-Universal Navigation
+## Universal Navigation
 
 Left side:
 
@@ -71,28 +82,3 @@ Right side:
   - Log out (Every platform is different. They should all redirect to [https://cilogon.org/logout/?skin=access](https://cilogon.org/logout/?skin=access))
 
 ##
-
-Universal Footer
-
-Row 1:
-
-- NSF Logo ([https://www.nsf.gov/](https://www.nsf.gov/))
-- ACCESS Blurb, with CONTACT ACCESS directly below ([https://access-ci.org/contact](https://access-ci.org/contact))
-- Social Links:
-  - Twitter (https://twitter.com/ACCESSforCI)
-  - Youtube (https://www.youtube.com/c/ACCESSforCI)
-  - Facebook ([https://www.facebook.com/ACCESSforCI](https://www.facebook.com/ACCESSforCI))
-  - LinkedIn ([https://www.linkedin.com/company/accessforci/](https://www.linkedin.com/company/accessforci/))
-
-Row 2:
-
-Left justified:
-
-- ACCESS Advancing Innovation Logo ([https://access-ci.org/](https://access-ci.org/contact))
-
-Right Justified:
-
-- Acceptable Use Policy (https://identity.access-ci.org/aup.html)
-- Code of Conduct (https://access-ci.org/code-of-conduct)
-- Privacy Policy (https://access-ci.org/privacy-policy)
-- Text: "All rights reserved. ©2023 ACCESS"
