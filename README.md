@@ -12,22 +12,32 @@ Updated Universal Footer
 Footer content has been updated. See access-UI-15 and access-style-guide-7 for text, layout, and design.
 
 URLs:
-([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false)
-([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false)
-([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false)
-([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false)
-([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false)
+([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false))
+([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false))
+([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false))
+([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false))
+([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false))
 
 Contact ACCESS (https://access-ci.org/contact/)
+
 Acceptable Use Policy (https://access-ci.org/acceptable-use/)
+
 Code of Conduct (https://access-ci.org/code-of-conduct/)
+
 Privacy Policy (https://access-ci.org/privacy-policy/)
+
 Glossary (https://access-ci.org/glossary/)
+
 Site Map (https://access-ci.org/site-map/)
+
 Twitter (https://twitter.com/ACCESSforCI)
+
 Youtube (https://www.youtube.com/c/ACCESSforCI)
+
 Facebook (https://www.facebook.com/ACCESSforCI)
+
 LinkedIn (https://www.linkedin.com/company/accessforci/)
+
 ACCESS Logo (https://access-ci.org/)
 
 ## User Interface Design
