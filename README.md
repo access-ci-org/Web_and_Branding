@@ -18,11 +18,12 @@ All ACCESS logos will now include the NSF logo. Download logos.
 Universal Footer content has been updated. See access-UI-15 and access-style-guide-7 for text, layout, and design.
 
 URLs:
-([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false))
-([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false))
-([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false))
-([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false))
-([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false))
+
+- ([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false))
+- ([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false))
+- ([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false))
+- ([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false))
+- ([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false))
 
 - Contact ACCESS (https://access-ci.org/contact/)
 
