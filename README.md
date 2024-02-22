@@ -1,21 +1,27 @@
 # ACCESS Style Guide
 
-February 7, 2024
+February 22, 2024
 
 ## Updated Logos
 
-All ACCESS logos will now include the NSF logo. Download logos.
+All ACCESS logos will now include the NSF logo.
 
-- Please note: Use the supplied .svg file for website use.
-- See access-UI-15 and access-style-guide-7 for size and position.
+Please note: Use the supplied assets for the website. All logo elements have been exported as separate .SVGs so that we maintain consistency across websites.
+
+- See access-UI-16 and access-style-guide-8 for size and position.
 - NSF logo links to nsf.gov
 - ACCESS logo and subdomain logos link to home page of their respective websites
 
-[Logos](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
+[Download logos (original file)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos/ACCESS-logo.png)
+[Download logo assets (individual logo elements exported as .SVGs)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
 
 ## Updated Universal Footer
 
-Universal Footer content has been updated. See access-UI-15 and access-style-guide-7 for text, layout, and design.
+Universal Footer content has been updated. See access-UI-16 and access-style-guide-8 for text, layout, and design. (edited)
+
+- Social icons are now provided so that we maintain consistency across websites.
+
+[Download social icons (.SVG format)](https://github.com/access-ci-org/Web_and_Branding/tree/master/social)
 
 URLs:
 
@@ -50,14 +56,14 @@ URLs:
 ## User Interface Design
 
 Download navigation, layout examples, and page measurements:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-15.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-15.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-16.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-16.xd))
 
 ## Style Guide
 
 Download hex values, typography standards, and more:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-7.xd))
+([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-8.pdf))
+([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-8.xd))
 
 ## Universal Navigation URLS
 
