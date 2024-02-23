@@ -12,7 +12,7 @@ Please note: Use the supplied assets for the website headers. All logo elements 
 - NSF logo links to nsf.gov
 - ACCESS logo and subdomain logos link to home page of their respective websites
 
-[Download logos (original files)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos/ACCESS-logo.png)
+[Download logos (original files)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos/logos.zip)
 
 [Download logo assets (individual logo elements exported as .SVGs)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
 
