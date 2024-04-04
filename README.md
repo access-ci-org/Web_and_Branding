@@ -1,6 +1,10 @@
 # ACCESS Style Guide
 
-February 22, 2024
+April 4, 2024
+
+Header and Footer Review
+
+Using access-ci.org as a guide update each track’s header and footer per the comments provided in these JPGs.
 
 ## Updated Logos
 
