@@ -4,7 +4,7 @@ April 17, 2024
 
 ## Desktop Header and Footer Review
 
-Update each track’s header and footer per the comments provided in these JPGs
+Update each track’s desktop header and footer per the comments provided in these JPGs
 
 ## Updated Logos
 
