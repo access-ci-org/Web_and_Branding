@@ -82,7 +82,7 @@ Left side:
 Right side:
 
 - \<Home Icon\> ([https://access-ci.org](https://access-ci.org/))
-- \<Search Icon\> ([https://support.access-ci.org/knowledge-base](https://support.access-ci.org/knowledge-base))
+- \<Search Icon\> ([https://support.access-ci.org/find](https://support.access-ci.org/find))
 - \<Hamburger Icon\>
   - About ([https://access-ci.org/about](https://access-ci.org/about))
   - Announcements (https:/support.access-ci.org/announcements)
