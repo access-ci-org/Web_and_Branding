@@ -1,108 +1,67 @@
 # ACCESS Style Guide
 
-April 17, 2024
+October 9, 2024
 
-## Desktop Header and Footer Review
+## Logos
 
-Update each track’s desktop header and footer per the comments provided in these JPGs
-
-## Updated Logos
-
-All ACCESS logos will now include the NSF logo.
-
-Please note: Use the supplied assets for the website headers. All logo elements have been exported as separate .SVGs so that we maintain consistency across websites.
-
-- See access-UI-16 and access-style-guide-8 for size and position
-- NSF logo links to nsf.gov
-- ACCESS logo and subdomain logos link to home page of their respective websites
-
+All ACCESS logos include the NSF logo.
 [Download logos (original files)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos/logos.zip)
-
 [Download logo assets (individual logo elements exported as .SVGs)](https://github.com/access-ci-org/Web_and_Branding/tree/master/logos)
 
-## Updated Universal Footer
+## Style guide
 
-Universal Footer content has been updated. See access-UI-16 and access-style-guide-8 for text, layout, and design. (edited)
+Header, footer, hex values, typography standards, and more. Download Version 10 ([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-10.pdf)) Download Version 10 ([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-10.xd))
 
-- Social icons are now provided so that we maintain consistency across websites
+## URLs
 
-[Download social icons (.SVG format)](https://github.com/access-ci-org/Web_and_Branding/tree/master/social)
+### Header left side
 
-URLs:
+ALLOCATIONS (https://allocations.access-ci.org)
+RESOURCES (https://allocations.access-ci.org/resources)
+EVENTS & TRAININGS: (https://support.access-ci.org/events)
+SUPPORT (https://support.access-ci.org)
+NEWS (https://access-ci.org/news/)
+ABOUT (https://operations.access-ci.org)
 
-- ([#2138259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138259&HistoricalAwards=false))
-- ([#2138286](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138286&HistoricalAwards=false))
-- ([#2138307](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138307&HistoricalAwards=false))
-- ([#2137603](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603&HistoricalAwards=false))
-- ([#2138296](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138296&HistoricalAwards=false))
+### Right side
 
-- Contact ACCESS (https://access-ci.org/contact/)
+Find info for you
+For Researchers ( https://access-ci.org/get-started/for-researchers/)
+For Educators (https://access-ci.org/get-started/for-educators/)
+For Graduate Students (https://access-ci.org/get-started/for-graduate-students/)
+For Resource Providers (https://access-ci.org/get-started/for-resource-providers/)
+For Programs & Organizations (https://access-ci.org/get-started/for-programs-organizations/)
+[Home Icon] (https://access-ci.org)
+[Search Icon] (https://support.access-ci.org/find)
+Login (if not logged in)
+Login (https://cilogon.org/)
+Questions (https://identity.access-ci.org/)
+Register (https://identity.access-ci.org/new-user)
+Reset Password (https://identity.access-ci.orgg/password-reset)
+My ACCESS (if logged in)
+Allocations (https://allocations.access-ci.org/requests)
+Community Persona (https://support.access-ci.org/community-persona)
+Edit Profile (https://allocations.access-ci.org/profile)
+Open a help ticket (TBD future page)
+Publications (https://allocations.access-ci.org/publications)
+Share with ORCID (https://allocations.access-ci.org/orcid)
+Log out (Every platform is different. They should all redirect to https://cilogon.org/logout/?skin=access)
 
-- Acceptable Use Policy (https://access-ci.org/acceptable-use/)
+### Footer
 
-- Code of Conduct (https://access-ci.org/code-of-conduct/)
-
-- Privacy Policy (https://access-ci.org/privacy-policy/)
-
-- Glossary (https://access-ci.org/glossary/)
-
-- Site Map (https://access-ci.org/site-map/)
-
-- Twitter (https://twitter.com/ACCESSforCI)
-
-- Youtube (https://www.youtube.com/c/ACCESSforCI)
-
-- Facebook (https://www.facebook.com/ACCESSforCI)
-
-- LinkedIn (https://www.linkedin.com/company/accessforci/)
-
-- ACCESS Logo (https://access-ci.org/)
-
-## User Interface Design
-
-Download navigation, layout examples, and page measurements:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-16.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-UI-16.xd))
-
-## Style Guide
-
-Download hex values, typography standards, and more:
-([PDF](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-8.pdf))
-([Adobe XD](https://github.com/access-ci-org/Web_and_Branding/blob/master/access-style-guide-8.xd))
-
-## Universal Navigation URLS
-
-Left side:
-
-- ALLOCATIONS ([https://allocations.access-ci.org](https://allocations.access-ci.org/))
-- SUPPORT ([https://support.access-ci.org](https://support.access-ci.org/))
-- OPERATIONS ([https://operations.access-ci.org](https://operations.access-ci.org/))
-- METRICS ([https://metrics.access-ci.org](https://metrics.access-ci.org/))
-
-Right side:
-
-- \<Home Icon\> ([https://access-ci.org](https://access-ci.org/))
-- \<Search Icon\> ([https://support.access-ci.org/find](https://support.access-ci.org/find))
-- \<Hamburger Icon\>
-  - About ([https://access-ci.org/about](https://access-ci.org/about))
-  - Announcements (https:/support.access-ci.org/announcements)
-  - Contact (https://access-ci.org/contact)
-  - Events & Trainings (https://support.access-ci.org/events)
-  - News ([https://access-ci.org/news](https://access-ci.org/news))
-  - Outages ([https://support.access-ci.org/outages](https://support.access-ci.org/outages))
-  - Resource Providers ([https://access-ci.org/resource-providers/](https://access-ci.org/resource-providers/))
-- Login (if not logged in)
-  - Login ([https://cilogon.org/](https://cilogon.org/))
-  - Questions ([https://identity.access-ci.org/](https://identity.access-ci.org/))
-  - Register (https://identity.access-ci.org/new-user)
-  - Reset Password (https://identity.access-ci.orgg/password-reset)
-- My ACCESS (if logged in)
-  - Allocations ([https://allocations.access-ci.org/requests](https://allocations.access-ci.org/requests))
-  - Community Persona ([https://support.access-ci.org/community-persona](https://support.access-ci.org/community-persona))
-  - Edit Profile ([https://allocations.access-ci.org/profile](https://allocations.access-ci.org/profile))
-  - Open a help ticket (TBD future page)
-  - Publications (https://allocations.access-ci.org/publications)
-  - Share with ORCID (https://allocations.access-ci.org/orcid)
-  - Log out (Every platform is different. They should all redirect to [https://cilogon.org/logout/?skin=access](https://cilogon.org/logout/?skin=access))
-
-##
+(#2138259)
+(#2138286)
+(#2138307)
+(#2137603)
+(#2138296)
+Contact ACCESS (https://access-ci.org/contact/)
+Acceptable Use Policy (https://access-ci.org/acceptable-use/)
+Code of Conduct (https://access-ci.org/code-of-conduct/)
+Privacy Policy (https://access-ci.org/privacy-policy/)
+Glossary (https://access-ci.org/glossary/)
+Site Map (https://access-ci.org/site-map/)
+Twitter (https://twitter.com/ACCESSforCI)
+Youtube (https://www.youtube.com/c/ACCESSforCI)
+Facebook (https://www.facebook.com/ACCESSforCI)
+LinkedIn (https://www.linkedin.com/company/accessforci/)
+ACCESS Logo (https://access-ci.org/)
